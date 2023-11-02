@@ -14,3 +14,11 @@ This data set contains the following features:
     'Country': Country of consumer
     'Timestamp': Time at which consumer clicked on Ad or closed window
     'Clicked on Ad': 0 or 1 indicated clicking on Ad
+
+# Ad Click Prediction Project Summary:
+
+**Objective:** Developed a logistic regression model to predict online ad clicks using user demographics and behavior data.
+
+**Achievement:** Successfully achieved an impressive accuracy of 97.285% through hyperparameter tuning.
+
+**Outcomes:** Identified key features influencing ad clicks, providing actionable insights for targeted ad campaigns.
